@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/david-zerbib-204968204/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+
 # Hey there 👋
 
 I’m David, a junior full-stack engineer. I’m currently working at [Eiffage](https://www.eiffage.com/).
