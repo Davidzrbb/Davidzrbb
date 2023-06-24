@@ -6,17 +6,18 @@
 </h1>
 
 <p align='center'>
-I’m David, a junior full-stack engineer. I’m currently working at <a href="https://www.eiffage.com/">Eiffage</a>.
+I’m David, a junior full-stack engineer. 
+ <br> I’m currently working at <a href="https://www.eiffage.com/">Eiffage</a>.
 </p>
 
 ## &#x1f4c8; GitHub Stats
 
 <br>
-
-<a href="https://github.com/Davidzrbb">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidzrbb&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-</a>
-
+  <div align="center">
+  <a href="https://github.com/Davidzrbb">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidzrbb&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </a>
+</div>
 
 <br>
 <br>
