@@ -20,6 +20,8 @@ I’m David, a junior full-stack engineer. I’m currently working at [Eiffage](
 <br>
 
 ## 💼 Skills
+<div align="center">
+  <div style="display: flex;">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -27,6 +29,8 @@ I’m David, a junior full-stack engineer. I’m currently working at [Eiffage](
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  </div>
+</div>
 
 
 
