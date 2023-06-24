@@ -21,7 +21,7 @@ I’m David, a junior full-stack engineer. I’m currently working at [Eiffage](
 
 ## 💼 Skills
 <div align="center">
-  <div style="display: flex;">
+  <div style="align: top;">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
