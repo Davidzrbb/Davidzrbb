@@ -1,6 +1,5 @@
 <a href="https://www.linkedin.com/in/david-zerbib-204968204/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 <h1 align='center'>
   Hi there 👋 I'm David 👨‍💻
 </h1>
