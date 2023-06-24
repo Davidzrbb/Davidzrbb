@@ -6,8 +6,7 @@
 </h1>
 
 <p align='center'>
-I’m David, a junior full-stack engineer. 
- <br> I’m currently working at <a href="https://www.eiffage.com/">Eiffage</a>.
+I’m David, a junior full-stack engineer. I’m currently working at <a href="https://www.eiffage.com/">Eiffage</a>.
 </p>
 
 ## &#x1f4c8; GitHub Stats
