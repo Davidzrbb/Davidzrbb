@@ -19,7 +19,7 @@ I’m David, a junior full-stack engineer. I’m currently working at <a href="h
 </div>
 
 <br>
-<br>
+
 
 ## 💼 Skills
 <div align="center">
