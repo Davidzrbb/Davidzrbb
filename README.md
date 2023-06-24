@@ -6,6 +6,7 @@
 
 <p align='center'>
 I’m David, a junior full-stack engineer. I’m currently working at <a href="https://www.eiffage.com/">Eiffage</a>.
+  <br><br>
 </p>
 
 ## &#x1f4c8; GitHub Stats
