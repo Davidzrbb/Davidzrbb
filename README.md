@@ -13,9 +13,7 @@ I’m David, a junior full-stack engineer. I’m currently working at [Eiffage](
 <br>
 
 <a href="https://github.com/Davidzrbb">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Davidzrbb" alt="David GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidzrbba&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidzrbb&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 </a>
 
 <br>
