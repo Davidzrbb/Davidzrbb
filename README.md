@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/david-zerbib-204968204/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+</a>
 # Hey there 👋
 
 I’m David, a junior full-stack engineer. I’m currently working at [Eiffage](https://www.eiffage.com/).
@@ -14,6 +14,7 @@ I’m David, a junior full-stack engineer. I’m currently working at [Eiffage](
 <a href="https://github.com/Davidzrbb">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidzrbb&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Davidzrbb&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 
 <br>
 <br>
