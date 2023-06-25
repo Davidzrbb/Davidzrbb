@@ -4,10 +4,10 @@
   Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="40"/>
 </h1>
 
-<p align='center'>
+<h3 align='center'>
 I’m David, a junior full-stack engineer. I’m currently working at <a href="https://www.eiffage.com/">Eiffage</a>.
   <br><br>
-</p>
+</h3>
 
 ## &#x1f4c8; GitHub Stats
 
