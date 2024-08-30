@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align='center'>
-I’m David, a junior full-stack engineer. I’m currently working at <a href="https://www.eiffage.com/">Eiffage</a>.
+I’m David, a full-stack engineer. I’m currently working at <a href="https://www.eiffage.com/">Eiffage</a>.
   <br><br>
 </h3>
 
