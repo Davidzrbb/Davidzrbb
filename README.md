@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align='center'>
-I’m David, a full-stack engineer. I’m currently working at <a href="https://www.canalplus.com/">Canal+</a>.
+I’m David, a full-stack engineer. Always open to collaborate !
   <br><br>
 </h3>
 
